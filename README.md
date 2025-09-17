@@ -14,4 +14,3 @@ It serves as a central place where people can learn more about me and my work.
 - **CSS3**  
 - **JavaScript**  
 
-## 📂 Project Structure
