@@ -1,33 +1,34 @@
-# 🌟 Personal Portfolio Website
-
-This is my **personal portfolio website**, designed and developed to highlight my journey, skills, and creative projects.  
-The purpose of this portfolio is to provide visitors with a **professional snapshot** of who I am, what I do, and how I can add value.  
-
-It also serves as a **live demonstration of my design and development skills**, combining aesthetics with functionality.
+<h1 align="center">🌐 Personal Portfolio Website</h1>
+<h3 align="center">A responsive personal portfolio built using HTML, CSS, and JavaScript</h3>
 
 ---
 
-## ✨ Objectives
-- Present my **skills, experience, and projects** in an interactive way.  
-- Create a **professional online identity** for job opportunities, internships, and collaborations.  
-- Provide an easy way for people to **contact me** or explore my work.  
+## 🚀 About the Project  
+The **Personal Portfolio Website** showcases my skills, projects, and experience as a frontend developer.  
+It’s designed with a modern UI, smooth animations, and responsive layouts to look great on any device.  
 
 ---
 
-## 🚀 Key Features
-- **Modern, responsive design** (adapts seamlessly across desktop, tablet, and mobile).  
-- **Smooth navigation** with a clean, minimal UI.  
-- Sections for:
-  - **About Me** – introduction and background.  
-  - **Skills** – tools, technologies, and expertise.  
-  - **Projects** – selected works and case studies.  
-  - **Contact** – ways to connect.  
-- Social links integrated for quick networking.  
-- Lightweight and fast-loading for better user experience.  
+## ✨ Features  
+- 🏠 Home section with introduction  
+- 📖 About Me section with skills & background  
+- 💼 Projects showcase (with links)  
+- 📜 Resume/CV download option  
+- 📬 Contact form with email integration  
+- 🎨 Fully responsive and mobile-friendly  
+- ⚡ Smooth scrolling & animations  
 
 ---
 
-## 🛠️ Tech Stack
-- **HTML5** – structure  
-- **CSS3** – styling & animations  
-- **JavaScript** – interactivity & dynamic elements  
+## 🛠️ Tech Stack  
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+</p>
